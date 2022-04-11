@@ -1,1 +1,5 @@
 chains/
+accounts/
+
+# local file to store data
+network.sock
